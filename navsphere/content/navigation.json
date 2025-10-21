@@ -102,6 +102,14 @@
           "href": "https://www.6a105.cf/",
           "description": "访问 www.6a105.cf",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.6a105.cf"
+        },
+        {
+          "id": "item-1761026561374",
+          "enabled": true,
+          "title": "LucasTV-U",
+          "href": "https://ltv.lml.6a105.cf:2053/login?redirect=%2F",
+          "description": "访问 ltv.lml.6a105.cf",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ltv.lml.6a105.cf"
         }
       ],
       "subCategories": [],
