@@ -150,6 +150,14 @@
           "href": "https://140.83.34.199:4443/",
           "description": "访问 140.83.34.199",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=140.83.34.199"
+        },
+        {
+          "id": "item-1761030463361",
+          "enabled": true,
+          "title": "登录",
+          "href": "https://gpt.6a105.cf/",
+          "description": "非\n                RT\n                与\n                AT\n                的输入，将作为\n            Seed\n            随机抽取后台账号",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=gpt.6a105.cf"
         }
       ],
       "subCategories": [],
