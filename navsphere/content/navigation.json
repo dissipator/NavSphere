@@ -110,6 +110,14 @@
           "href": "https://ltv.lml.6a105.cf:2053/login?redirect=%2F",
           "description": "访问 ltv.lml.6a105.cf",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ltv.lml.6a105.cf"
+        },
+        {
+          "id": "item-1761026572871",
+          "enabled": true,
+          "title": "KatelyaTV",
+          "href": "https://ltv.6a105.cf/login?redirect=%2F",
+          "description": "影视聚合",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ltv.6a105.cf"
         }
       ],
       "subCategories": [],
