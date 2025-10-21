@@ -1303,7 +1303,7 @@
     {
       "id": "1761025612973",
       "title": "个人网站导航",
-      "icon": "Home",
+      "icon": "Folder",
       "description": "",
       "enabled": true,
       "items": [
@@ -1314,14 +1314,6 @@
           "href": "https://github.com/dissipator",
           "description": "访问 github.com",
           "icon": "/assets/favicon_1761025718216.png"
-        },
-        {
-          "id": "item-1761025978293",
-          "enabled": true,
-          "title": "WR.DO",
-          "href": "https://www.6a105.cf/",
-          "description": "访问 www.6a105.cf",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.6a105.cf"
         }
       ],
       "subCategories": []
