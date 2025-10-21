@@ -142,6 +142,14 @@
           "href": "https://huggingface.co/spaces/lucaslml/cli",
           "description": "访问 huggingface.co",
           "icon": "/assets/favicon_1761030400728.png"
+        },
+        {
+          "id": "item-1761030425401",
+          "enabled": true,
+          "title": "KasmVNC",
+          "href": "https://140.83.34.199:4443/",
+          "description": "访问 140.83.34.199",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=140.83.34.199"
         }
       ],
       "subCategories": [],
