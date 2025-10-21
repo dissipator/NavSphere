@@ -182,6 +182,14 @@
           "href": "https://ssh.lml.6a105.cf:2053/login?redirect=/",
           "description": "访问 ssh.lml.6a105.cf",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=ssh.lml.6a105.cf"
+        },
+        {
+          "id": "item-1761047306682",
+          "enabled": true,
+          "title": "Jupyter Server",
+          "href": "http://lml.luoml.eu.org:7860/login?next=%2Flab%3F",
+          "description": "This template was created by camenduru and nateraw, with contributions of osanseviero and azzr",
+          "icon": "/assets/favicon_1761047296608.ico"
         }
       ],
       "subCategories": [],
