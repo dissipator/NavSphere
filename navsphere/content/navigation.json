@@ -158,6 +158,14 @@
           "href": "https://gpt.6a105.cf/",
           "description": "非\n                RT\n                与\n                AT\n                的输入，将作为\n            Seed\n            随机抽取后台账号",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=gpt.6a105.cf"
+        },
+        {
+          "id": "item-1761030518931",
+          "enabled": true,
+          "title": "Gitea: Git with a cup of tea",
+          "href": "https://tea.lml.6a105.cf:2053/",
+          "description": "访问 tea.lml.6a105.cf",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tea.lml.6a105.cf"
         }
       ],
       "subCategories": [],
