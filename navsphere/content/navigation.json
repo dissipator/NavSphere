@@ -134,6 +134,14 @@
           "href": "http://192.168.31.10:8807/dpanel/ui/compose/list/",
           "description": "访问 192.168.31.10",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.31.10"
+        },
+        {
+          "id": "item-1761030406810",
+          "enabled": true,
+          "title": "Cli - a Hugging Face Space by lucaslml",
+          "href": "https://huggingface.co/spaces/lucaslml/cli",
+          "description": "访问 huggingface.co",
+          "icon": "/assets/favicon_1761030400728.png"
         }
       ],
       "subCategories": [],
