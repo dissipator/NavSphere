@@ -99,6 +99,24 @@
       "enabled": true
     },
     {
+      "id": "1761025612973",
+      "title": "个人网站导航",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "item-1761025730582",
+          "enabled": true,
+          "title": "dissipator",
+          "href": "https://github.com/dissipator",
+          "description": "访问 github.com",
+          "icon": "/assets/favicon_1761025718216.png"
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -1299,24 +1317,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1761025612973",
-      "title": "个人网站导航",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "item-1761025730582",
-          "enabled": true,
-          "title": "dissipator",
-          "href": "https://github.com/dissipator",
-          "description": "访问 github.com",
-          "icon": "/assets/favicon_1761025718216.png"
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
