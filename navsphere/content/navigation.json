@@ -190,6 +190,14 @@
           "href": "http://lml.luoml.eu.org:7860/login?next=%2Flab%3F",
           "description": "This template was created by camenduru and nateraw, with contributions of osanseviero and azzr",
           "icon": "/assets/favicon_1761047296608.ico"
+        },
+        {
+          "id": "item-1761101269314",
+          "enabled": true,
+          "title": "dosgame",
+          "href": "http://1.94.177.113:33998/",
+          "description": "访问 1.94.177.113",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=1.94.177.113"
         }
       ],
       "subCategories": [],
