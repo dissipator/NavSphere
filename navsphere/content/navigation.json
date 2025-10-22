@@ -198,6 +198,14 @@
           "href": "http://1.94.177.113:33998/",
           "description": "访问 1.94.177.113",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=1.94.177.113"
+        },
+        {
+          "id": "item-1761111326791",
+          "enabled": true,
+          "title": "MinIO Console",
+          "href": "http://192.168.31.10:9001/login",
+          "description": "访问 192.168.31.10",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.31.10"
         }
       ],
       "subCategories": [],
