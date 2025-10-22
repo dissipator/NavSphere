@@ -577,7 +577,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "item-1761101340034",
+          "enabled": true,
+          "title": "摸鱼网",
+          "href": "https://www.yikm.net/",
+          "description": "魂斗罗，超级玛丽，热血足球，三国志，合金弹头，拳皇。这些小时候的回忆，黑白电视机前玩着小霸王游戏机的那种感觉令人怀念，希望大家可以找回童年的快乐",
+          "icon": "/assets/favicon_1761101311004.png"
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
