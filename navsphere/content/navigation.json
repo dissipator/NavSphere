@@ -297,6 +297,14 @@
               "description": "AI生成PPT工具",
               "icon": "/assets/img_1736911490095.png",
               "enabled": true
+            },
+            {
+              "id": "item-1761122361394",
+              "enabled": true,
+              "title": "Docker MCP 服务器 | MCP Servers · LobeHub",
+              "href": "https://lobehub.com/zh/mcp/xiispace-docker-mcp",
+              "description": "使用 SSE（Server-Sent Events）或 stdio 传输方式与 Docker 容器和镜像交互的 Docker MCP 服务器。需要通过 /var/run/docker.sock 访问 Docker 守护进程。可以通过环境变量（如 MCP_PORT、MCP_AUTH_TOKEN、MCP_HOSTNA...",
+              "icon": "/assets/favicon_1761122348453.png"
             }
           ]
         },
