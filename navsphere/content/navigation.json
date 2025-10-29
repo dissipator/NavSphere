@@ -76,6 +76,14 @@
           "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
           "icon": "/assets/img_1741747241014.png",
           "enabled": true
+        },
+        {
+          "id": "item-1761714415904",
+          "enabled": true,
+          "title": "实验 - 使用 Microsoft Office 集成 - Training | Microsoft Learn",
+          "href": "https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1",
+          "description": "练习在财务和运营应用中使用 Microsoft Office 集成。",
+          "icon": "/assets/favicon_1761714413044.png"
         }
       ],
       "subCategories": [],
