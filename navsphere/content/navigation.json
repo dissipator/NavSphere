@@ -246,6 +246,14 @@
           "href": "https://mcp.lml.6a105.cf:2053/",
           "description": "访问 mcp.lml.6a105.cf",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mcp.lml.6a105.cf"
+        },
+        {
+          "id": "item-1761804566909",
+          "enabled": true,
+          "title": "OmniBox - 在线观影",
+          "href": "https://mtv.lml.6a105.cf:2053/history",
+          "description": "访问 mtv.lml.6a105.cf",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mtv.lml.6a105.cf"
         }
       ],
       "subCategories": [],
