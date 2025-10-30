@@ -84,6 +84,14 @@
           "href": "https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1",
           "description": "练习在财务和运营应用中使用 Microsoft Office 集成。",
           "icon": "/assets/favicon_1761714413044.png"
+        },
+        {
+          "id": "item-1761795063034",
+          "enabled": true,
+          "title": "Client Area - CLAWCLOUD",
+          "href": "https://claw.cloud/clientarea.php",
+          "description": "访问 claw.cloud",
+          "icon": "/assets/favicon_1761795058482.png"
         }
       ],
       "subCategories": [],
