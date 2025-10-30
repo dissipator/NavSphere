@@ -116,6 +116,14 @@
           "href": "https://bbs.livecodes.vip/forum.php?mod=viewthread&tid=105&extra=page%3D1",
           "description": "成都电信，移动组播完整ID看仔细了是组播 不是单播。没有用的不要下载 成都电信，移动组播完整ID ,直播源论坛",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.livecodes.vip"
+        },
+        {
+          "id": "item-1761812873604",
+          "enabled": true,
+          "title": "【新提醒】【本站独享PHP】首发抖音PHP，绝对稀有！ - PHP直播源码 直播源论坛",
+          "href": "https://bbs.livecodes.vip/forum.php?mod=viewthread&tid=71&extra=page%3D1",
+          "description": "无需任何设置，开箱即用，小白建议直接使用本站10月16日就是今天最新的PHP Docker镜像（之前的需要更新，更新Docker镜像删除旧的本地容器和本地镜像即可，不会百度），如 ... 【本站独享PHP】首发抖音PHP，绝对稀有！ ,直播源论坛",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.livecodes.vip"
         }
       ],
       "subCategories": [],
