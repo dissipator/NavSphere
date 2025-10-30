@@ -92,6 +92,14 @@
           "href": "https://claw.cloud/clientarea.php",
           "description": "访问 claw.cloud",
           "icon": "/assets/favicon_1761795058482.png"
+        },
+        {
+          "id": "item-1761795330250",
+          "enabled": true,
+          "title": "Dashboard · Fly",
+          "href": "https://fly.io/dashboard",
+          "description": "",
+          "icon": "/assets/favicon_1761795325106.png"
         }
       ],
       "subCategories": [],
