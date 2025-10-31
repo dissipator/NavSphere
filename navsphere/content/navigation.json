@@ -94,14 +94,6 @@
           "icon": "/assets/favicon_1761795325106.png"
         },
         {
-          "id": "item-1761795435118",
-          "enabled": true,
-          "title": "ClawCloud",
-          "href": "https://ap-northeast-1.run.claw.cloud/callback?code=65de864c046f2c74c624&state=eyJhY3Rpb24iOiJMT0dJTiIsInRpbWVzdGFtcCI6MTc2MTc5NTQwNDM4MSwic3RhdGVQYXlsb2FkIjp7InByb3ZpZGVyIjoiR0lUSFVCIiwiZG9tYWluIjoiYXAtbm9ydGhlYXN0LTEucnVuLmNsYXcuY2xvdWQifX0%3D",
-          "description": "ClawCloud",
-          "icon": "/assets/favicon_1761795422666.png"
-        },
-        {
           "id": "item-1761812280801",
           "enabled": true,
           "title": "【新提醒】成都电信，移动组播完整ID - 直播源分享 直播源论坛",
@@ -464,6 +456,14 @@
               "href": "https://vercel.com/",
               "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
               "icon": "/assets/images/logos/vercel.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1761795435118",
+              "title": "ClawCloud",
+              "href": "https://ap-northeast-1.run.claw.cloud/callback?code=65de864c046f2c74c624&state=eyJhY3Rpb24iOiJMT0dJTiIsInRpbWVzdGFtcCI6MTc2MTc5NTQwNDM4MSwic3RhdGVQYXlsb2FkIjp7InByb3ZpZGVyIjoiR0lUSFVCIiwiZG9tYWluIjoiYXAtbm9ydGhlYXN0LTEucnVuLmNsYXcuY2xvdWQifX0%3D",
+              "description": "ClawCloud",
+              "icon": "/assets/favicon_1761795422666.png",
               "enabled": true
             }
           ]
