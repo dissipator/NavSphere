@@ -92,6 +92,14 @@
           "href": "https://bbs.livecodes.vip/forum.php?mod=viewthread&tid=71&extra=page%3D1",
           "description": "无需任何设置，开箱即用，小白建议直接使用本站10月16日就是今天最新的PHP Docker镜像（之前的需要更新，更新Docker镜像删除旧的本地容器和本地镜像即可，不会百度），如 ... 【本站独享PHP】首发抖音PHP，绝对稀有！ ,直播源论坛",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.livecodes.vip"
+        },
+        {
+          "id": "item-1761879505935",
+          "enabled": true,
+          "title": "docker.io/lampon/omnibox:latest - 镜像下载 | docker.io",
+          "href": "https://docker.aityp.com/image/docker.io/lampon/omnibox:latest",
+          "description": "docker.io/lampon/omnibox:latest 中国可用加速镜像下载地址",
+          "icon": "/assets/favicon_1761879503465.ico"
         }
       ],
       "subCategories": [],
