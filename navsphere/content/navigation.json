@@ -100,6 +100,14 @@
           "href": "https://docker.aityp.com/image/docker.io/lampon/omnibox:latest",
           "description": "docker.io/lampon/omnibox:latest 中国可用加速镜像下载地址",
           "icon": "/assets/favicon_1761879503465.ico"
+        },
+        {
+          "id": "item-1761891941198",
+          "enabled": true,
+          "title": "代理图.drawio - draw.io",
+          "href": "https://app.diagrams.net/#G1RiL7LwUT710Owfy9WyHwhqmBoMFzJ-Ss#%7B%22pageId%22%3A%22Rjhl_0cplSNwzq8FaXCv%22%7D",
+          "description": "draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams",
+          "icon": "/assets/favicon_1761891938173.ico"
         }
       ],
       "subCategories": [],
