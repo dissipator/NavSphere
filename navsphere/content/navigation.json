@@ -481,6 +481,14 @@
               "description": "访问 claw.cloud",
               "icon": "/assets/favicon_1761795058482.png",
               "enabled": true
+            },
+            {
+              "id": "item-1761893150490",
+              "enabled": true,
+              "title": "Zeabur",
+              "href": "https://zeabur.com/projects/666bc950c0597d8895668d69?envID=666bc950f7bdf8eb0ee77d2d",
+              "description": "",
+              "icon": "/assets/favicon_1761893105635.png"
             }
           ]
         },
