@@ -78,14 +78,6 @@
           "icon": "/assets/favicon_1761714413044.png"
         },
         {
-          "id": "item-1761795063034",
-          "enabled": true,
-          "title": "Client Area - CLAWCLOUD",
-          "href": "https://claw.cloud/clientarea.php",
-          "description": "访问 claw.cloud",
-          "icon": "/assets/favicon_1761795058482.png"
-        },
-        {
           "id": "item-1761812280801",
           "enabled": true,
           "title": "【新提醒】成都电信，移动组播完整ID - 直播源分享 直播源论坛",
@@ -464,6 +456,14 @@
               "href": "https://fly.io/dashboard",
               "description": "",
               "icon": "/assets/favicon_1761795325106.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1761795063034",
+              "title": "Client Area - CLAWCLOUD",
+              "href": "https://claw.cloud/clientarea.php",
+              "description": "访问 claw.cloud",
+              "icon": "/assets/favicon_1761795058482.png",
               "enabled": true
             }
           ]
