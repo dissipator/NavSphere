@@ -262,6 +262,14 @@
           "href": "https://140.238.61.159:9000/",
           "description": "访问 140.238.61.159",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=140.238.61.159"
+        },
+        {
+          "id": "item-1762170628633",
+          "enabled": true,
+          "title": "IntelliSSH",
+          "href": "https://term.dissipator.cf/login?redirect=/",
+          "description": "访问 term.dissipator.cf",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=term.dissipator.cf"
         }
       ],
       "subCategories": [],
