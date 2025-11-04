@@ -270,6 +270,14 @@
           "href": "https://term.dissipator.cf/login?redirect=/",
           "description": "访问 term.dissipator.cf",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=term.dissipator.cf"
+        },
+        {
+          "id": "item-1762227354357",
+          "enabled": true,
+          "title": "拨测-免费的域名检测工具网-网站测速-ping检测-域名污染-域名拦截-dns查询-IPv6网站测试-路由跟踪查询-劫持检测-站长工具",
+          "href": "https://www.boce.com/",
+          "description": "访问 www.boce.com",
+          "icon": "/assets/favicon_1762227345114.png"
         }
       ],
       "subCategories": [],
