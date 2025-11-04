@@ -278,6 +278,14 @@
           "href": "https://www.boce.com/",
           "description": "访问 www.boce.com",
           "icon": "/assets/favicon_1762227345114.png"
+        },
+        {
+          "id": "item-1762247546080",
+          "enabled": true,
+          "title": "随便聊聊 · LobeHub",
+          "href": "https://lebo-lu.zeabur.app/chat",
+          "description": "访问 lebo-lu.zeabur.app",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lebo-lu.zeabur.app"
         }
       ],
       "subCategories": [],
