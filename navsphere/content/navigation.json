@@ -286,6 +286,14 @@
           "href": "https://lebo-lu.zeabur.app/chat",
           "description": "访问 lebo-lu.zeabur.app",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=lebo-lu.zeabur.app"
+        },
+        {
+          "id": "item-1762396797170",
+          "enabled": true,
+          "title": "DiJiaTV",
+          "href": "https://tv.pei.ee/",
+          "description": "影视聚合",
+          "icon": "/assets/favicon_1762396793375.png"
         }
       ],
       "subCategories": [],
