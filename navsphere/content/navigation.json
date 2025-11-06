@@ -294,6 +294,14 @@
           "href": "https://tv.pei.ee/",
           "description": "影视聚合",
           "icon": "/assets/favicon_1762396793375.png"
+        },
+        {
+          "id": "item-1762397075676",
+          "enabled": true,
+          "title": "【github搜集】moontv/lunaTV的源资源集合，福利资源 v2.0 - 资源荟萃 - LINUX DO",
+          "href": "https://linux.do/t/topic/1000264",
+          "description": "访问 linux.do",
+          "icon": "/assets/favicon_1762397070086.png"
         }
       ],
       "subCategories": [],
