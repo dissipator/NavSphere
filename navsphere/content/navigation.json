@@ -302,6 +302,14 @@
           "href": "https://linux.do/t/topic/1000264",
           "description": "访问 linux.do",
           "icon": "/assets/favicon_1762397070086.png"
+        },
+        {
+          "id": "item-1762417678689",
+          "enabled": true,
+          "title": "LTV",
+          "href": "https://luntv1.zeabur.app/",
+          "description": "影视聚合",
+          "icon": "/assets/favicon_1762417675722.png"
         }
       ],
       "subCategories": [],
