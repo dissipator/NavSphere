@@ -310,6 +310,14 @@
           "href": "https://luntv1.zeabur.app/",
           "description": "影视聚合",
           "icon": "/assets/favicon_1762417675722.png"
+        },
+        {
+          "id": "item-1762487021235",
+          "enabled": true,
+          "title": "docker.io/lampon/omnibox:v1.3.9 - 镜像下载 | docker.io",
+          "href": "https://docker.aityp.com/image/docker.io/lampon/omnibox:v1.3.9",
+          "description": "访问 docker.aityp.com",
+          "icon": "/assets/favicon_1762487016733.png"
         }
       ],
       "subCategories": [],
