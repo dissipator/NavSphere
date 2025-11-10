@@ -342,6 +342,14 @@
           "href": "https://1ms.run/",
           "description": "国内专线拉取镜像！国内专业的镜像仓库解决方案商，简单配置即可享受极速下载，提升容器部署效率。",
           "icon": "/assets/favicon_1762754378764.ico"
+        },
+        {
+          "id": "item-1762757918541",
+          "enabled": true,
+          "title": "Workflows - n8n",
+          "href": "https://lucaslml-n8n.hf.space/home/workflows",
+          "description": "访问 lucaslml-n8n.hf.space",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucaslml-n8n.hf.space"
         }
       ],
       "subCategories": [],
