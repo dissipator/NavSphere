@@ -334,6 +334,14 @@
           "href": "http://192.168.31.1/cgi-bin/luci",
           "description": "访问 192.168.31.1",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.31.1"
+        },
+        {
+          "id": "item-1762754381847",
+          "enabled": true,
+          "title": "Docker镜像极速下载服务 - 毫秒镜像",
+          "href": "https://1ms.run/",
+          "description": "国内专线拉取镜像！国内专业的镜像仓库解决方案商，简单配置即可享受极速下载，提升容器部署效率。",
+          "icon": "/assets/favicon_1762754378764.ico"
         }
       ],
       "subCategories": [],
