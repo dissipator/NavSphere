@@ -318,6 +318,14 @@
           "href": "https://docker.aityp.com/image/docker.io/lampon/omnibox:v1.3.9",
           "description": "访问 docker.aityp.com",
           "icon": "/assets/favicon_1762487016733.png"
+        },
+        {
+          "id": "item-1762741821279",
+          "enabled": true,
+          "title": "Home Assistant",
+          "href": "http://192.168.31.178:8123/auth/authorize?response_type=code&redirect_uri=http%3A%2F%2F192.168.31.178%3A8123%2F%3Fauth_callback%3D1&client_id=http%3A%2F%2F192.168.31.178%3A8123%2F&state=eyJoYXNzVXJsIjoiaHR0cDovLzE5Mi4xNjguMzEuMTc4OjgxMjMiLCJjbGllbnRJZCI6Imh0dHA6Ly8xOTIuMTY4LjMxLjE3ODo4MTIzLyJ9",
+          "description": "访问 192.168.31.178",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.31.178"
         }
       ],
       "subCategories": [],
