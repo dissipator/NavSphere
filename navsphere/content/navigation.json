@@ -374,6 +374,14 @@
           "href": "https://laosu.tech/2024/04/12/WeWe%20RSS%EF%BC%9A%E4%B8%BA%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%94%9F%E6%88%90RSS%E8%AE%A2%E9%98%85%E6%BA%90/",
           "description": "WeWe RSS 能为微信公众号生成 RSS，实现更优雅的微信公众号订阅方式。",
           "icon": "https://laosu.tech/images/apple-touch-icon-next.png"
+        },
+        {
+          "id": "item-1762765587233",
+          "enabled": true,
+          "title": "自动发布公众号图文的n8n工作流 | N8N中文社区",
+          "href": "https://www.n8nzh.com/docs/guides/auto-wechat-publish/",
+          "description": "利用 n8n 自动收集整理内容，清洗排版，上传公众号草稿，提高写作效率，实现内容创作自动化。",
+          "icon": "/assets/favicon_1762765583507.ico"
         }
       ],
       "subCategories": [],
