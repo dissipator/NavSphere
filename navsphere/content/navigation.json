@@ -358,6 +358,14 @@
           "href": "https://lucaslml-cli.hf.space/lab?",
           "description": "访问 lucaslml-cli.hf.space",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucaslml-cli.hf.space"
+        },
+        {
+          "id": "item-1762757983437",
+          "enabled": true,
+          "title": "OmniBox - 在线观影",
+          "href": "https://lucaslml-mtv.hf.space/",
+          "description": "访问 lucaslml-mtv.hf.space",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucaslml-mtv.hf.space"
         }
       ],
       "subCategories": [],
