@@ -350,6 +350,14 @@
           "href": "https://lucaslml-n8n.hf.space/home/workflows",
           "description": "访问 lucaslml-n8n.hf.space",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucaslml-n8n.hf.space"
+        },
+        {
+          "id": "item-1762757949067",
+          "enabled": true,
+          "title": "lab? (3) - JupyterLab",
+          "href": "https://lucaslml-cli.hf.space/lab?",
+          "description": "访问 lucaslml-cli.hf.space",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lucaslml-cli.hf.space"
         }
       ],
       "subCategories": [],
