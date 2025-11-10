@@ -326,6 +326,14 @@
           "href": "http://192.168.31.178:8123/auth/authorize?response_type=code&redirect_uri=http%3A%2F%2F192.168.31.178%3A8123%2F%3Fauth_callback%3D1&client_id=http%3A%2F%2F192.168.31.178%3A8123%2F&state=eyJoYXNzVXJsIjoiaHR0cDovLzE5Mi4xNjguMzEuMTc4OjgxMjMiLCJjbGllbnRJZCI6Imh0dHA6Ly8xOTIuMTY4LjMxLjE3ODo4MTIzLyJ9",
           "description": "访问 192.168.31.178",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.31.178"
+        },
+        {
+          "id": "item-1762741966311",
+          "enabled": true,
+          "title": "中国电信智能网关",
+          "href": "http://192.168.31.1/cgi-bin/luci",
+          "description": "访问 192.168.31.1",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=192.168.31.1"
         }
       ],
       "subCategories": [],
