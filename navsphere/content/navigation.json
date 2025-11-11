@@ -390,6 +390,14 @@
           "href": "https://developer.volcengine.com/articles/7542490839268720703",
           "description": "访问 developer.volcengine.com",
           "icon": "/assets/favicon_1762772820712.png"
+        },
+        {
+          "id": "item-1762832949743",
+          "enabled": true,
+          "title": "WeWe RSS",
+          "href": "https://lucaswec.zeabur.app/dash/feeds/MP_WXS_3905732658",
+          "description": "更好的公众号订阅方式",
+          "icon": "/assets/favicon_1762832947129.png"
         }
       ],
       "subCategories": [],
