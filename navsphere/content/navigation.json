@@ -398,6 +398,14 @@
           "href": "https://lucaswec.zeabur.app/dash/feeds/MP_WXS_3905732658",
           "description": "更好的公众号订阅方式",
           "icon": "/assets/favicon_1762832947129.png"
+        },
+        {
+          "id": "item-1762948514914",
+          "enabled": true,
+          "title": "红警快捷键 | CTF of Z2BNS",
+          "href": "https://z2bns.github.io/2021/08/13/%E7%BA%A2%E8%AD%A6%E5%BF%AB%E6%8D%B7%E9%94%AE/",
+          "description": "红色警戒2战网对战平台，可以在线对战，😙",
+          "icon": "/assets/favicon_1762948512657.png"
         }
       ],
       "subCategories": [],
