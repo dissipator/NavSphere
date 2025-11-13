@@ -406,6 +406,14 @@
           "href": "https://z2bns.github.io/2021/08/13/%E7%BA%A2%E8%AD%A6%E5%BF%AB%E6%8D%B7%E9%94%AE/",
           "description": "红色警戒2战网对战平台，可以在线对战，😙",
           "icon": "/assets/favicon_1762948512657.png"
+        },
+        {
+          "id": "item-1763002078095",
+          "enabled": true,
+          "title": "文档 | zlzchat-rss",
+          "href": "http://103.40.14.228:38603/get-started.html#%E5%BF%98%E8%AE%B0%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81",
+          "description": "访问 103.40.14.228",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=103.40.14.228"
         }
       ],
       "subCategories": [],
