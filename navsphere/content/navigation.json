@@ -649,6 +649,14 @@
               "href": "https://zeabur.com/projects/666bc950c0597d8895668d69?envID=666bc950f7bdf8eb0ee77d2d",
               "description": "",
               "icon": "/assets/favicon_1761893105635.png"
+            },
+            {
+              "id": "item-1763086715306",
+              "enabled": true,
+              "title": "Wispbyte - Dashboard",
+              "href": "https://wispbyte.com/client/dashboard?serverCreated=true",
+              "description": "Free hosting forever! No renewals, no credits needed. Deploy websites, Discord bots, and applications with our reliable 24/7 hosting platform.",
+              "icon": "/assets/favicon_1763086693378.ico"
             }
           ]
         },
