@@ -673,6 +673,14 @@
               "href": "https://accounts.cloud.databricks.com/login?next_url=https%3A%2F%2Faccounts.cloud.databricks.com%2Foidc%2Faccounts%2F060d694e-0435-4dc2-84a6-d33cad4b89cb%2Fv1%2Fauthorize%3Fresponse_mode%3Dform_post%26include_granted_scopes%3Dtrue%26nonce%3D1ac97c67-fcd5-4c85-8117-9d9a45c2d80d%26state%3DP2xvZ2luVXNpbmdJZHA9ZGF0YWJyaWNrcyZuZXh0X3VybD0lMkZhcHBzJTJGYWFhJTNGbyUzRDYxNTEyMjM5OTExNDk2MCZhY2NvdW50X2lkPTA2MGQ2OTRlLTA0MzUtNGRjMi04NGE2LWQzM2NhZDRiODljYiZhdXRoX3JlcXVlc3RfaWQ9NDlmYjlhZjMtNmJhNC00MjVkLTkyMjQtOTM2MzlmMGRmMGQ1Jm5vbmNlX25hbWU9b2F1dGhfbm9uY2VfYmM0OTZlMjgmcmlpZD03NDBmMGVjOC0yMTVhLTRlZGUtODFhOC03OTg2MTY4YzAxNzUmbz02MTUxMjIzOTkxMTQ5NjA%26scope%3Dopenid%2Bemail%26redirect_uri%3Dhttps%253A%252F%252Faccounts.cloud.databricks.com%252Foidc%252Fconsume%26client_id%3Dcef6a689-ce26-45d0-bc87-17bef342fbba%26access_type%3Doffline%26response_type%3Did_token&account_id=060d694e-0435-4dc2-84a6-d33cad4b89cb&lakehouse=true&error=account-session-and-request-mismatch&tuuid=4a86deb8-0362-4e10-86e6-f2c734ef980b",
               "description": "Databricks Sign in",
               "icon": "/assets/favicon_1763110754706.ico"
+            },
+            {
+              "id": "item-1763376955805",
+              "enabled": true,
+              "title": "Workflows - n8n",
+              "href": "https://n8n.dissipator.cf/home/workflows",
+              "description": "访问 n8n.dissipator.cf",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=n8n.dissipator.cf"
             }
           ]
         },
