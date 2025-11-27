@@ -689,6 +689,14 @@
               "href": "https://nav.freedrime.cf/",
               "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
               "icon": "/assets/favicon_1764071168053.png"
+            },
+            {
+              "id": "item-1764214993431",
+              "enabled": true,
+              "title": "Deno Deploy",
+              "href": "https://deno.com/deploy",
+              "description": "One simple platform for anything that runs with JavaScript or Typescript.",
+              "icon": "/assets/favicon_1764214990147.ico"
             }
           ]
         },
