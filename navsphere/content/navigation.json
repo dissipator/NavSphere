@@ -697,6 +697,14 @@
               "href": "https://deno.com/deploy",
               "description": "One simple platform for anything that runs with JavaScript or Typescript.",
               "icon": "/assets/favicon_1764214990147.ico"
+            },
+            {
+              "id": "item-1764234884306",
+              "enabled": true,
+              "title": "Workflows - n8n",
+              "href": "https://n8nlml.fy.takin.cc/projects/mj3t0VQFzOoQYyZD/workflows",
+              "description": "访问 n8nlml.fy.takin.cc",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=n8nlml.fy.takin.cc"
             }
           ]
         },
