@@ -118,7 +118,16 @@
       "id": "11",
       "title": "个人导航",
       "icon": "Star",
-      "items": [],
+      "items": [
+        {
+          "id": "item-1764666459476",
+          "enabled": true,
+          "title": "Lucas航站",
+          "href": "https://nav.6a105.cf/",
+          "description": "个人导航站，整理和分享您喜爱的网站链接",
+          "icon": "/assets/favicon_1764666455726.svg"
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
