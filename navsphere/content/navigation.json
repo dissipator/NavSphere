@@ -422,6 +422,14 @@
           "description": "访问 n8n.dissipator.cf",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=n8n.dissipator.cf",
           "enabled": true
+        },
+        {
+          "id": "item-1764656623123",
+          "enabled": true,
+          "title": "API 中转代理服务",
+          "href": "http://px.dissipator.cf/",
+          "description": "通用 API 中转代理，用于访问被墙或限制的接口。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=px.dissipator.cf"
         }
       ],
       "subCategories": [],
